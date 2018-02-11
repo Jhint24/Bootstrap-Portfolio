@@ -43,6 +43,7 @@ body
 
 .josh  {
         color: #fff;
+        font-family: Georgia, Times, "Times New Roman", serif;
 
 
 }
@@ -50,6 +51,7 @@ body
 .me     {
         color: #4aaaa5;
         border-bottom: #ccc solid 2px;
+        font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .topleft{
